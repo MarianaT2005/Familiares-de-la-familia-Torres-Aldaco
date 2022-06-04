@@ -1,0 +1,126 @@
+.body1{
+    background-image: url("fondo7.jfif");
+    background-size: cover;
+	background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+.body2{
+    background-image: url("color.jfif");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center center;
+}
+.body3{
+    background-image: url("fondo4.jfif");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center center;
+    background-attachment: fixed;
+}
+.body4{
+    background-image: url("fondo2.webp");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center center;
+    background-attachment: fixed;
+}
+.tletra{
+    font-size: 22px;
+    background-color: rgb(207, 194, 177);
+    font-family: Cambria;
+}
+.tletra1{
+    font-size: 22px;
+    background-color: rgb(190, 169, 151);
+    font-family: Cambria;
+}
+.t{
+    background-color: rgb(180, 155, 134);
+    color: #000000;
+    font-size: 30px;
+}
+.t1{
+    background-color: rgb(129, 121, 95);
+    color: #000000;
+    font-size: 30px;
+}
+.tap{
+    font-size: 50px;
+}
+.tap1{
+    font-size: 22px;
+}
+.titup{
+    font-size: 50px;
+}
+
+.caja {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+  
+#f1 {
+    position: relative;
+    top: 100px;
+}
+
+#f1f {
+    position: absolute;
+    top: 1205px;
+    left: 444px;
+    color: #000000;
+    font-size: 20px;
+}
+
+#f2 {
+    position: relative;
+    top: 300px;
+}
+#f2f {
+    position: absolute;
+    top: 1205px;
+    left: 751px;
+    color: #000000;
+    font-size: 20px;
+}
+#f3 {
+    position: relative;
+    top: 100px;
+}
+
+#f3f {
+    position: absolute;
+    top: 1410px;
+    left: 600px;
+    color: #000000;
+    font-size: 20px;
+}
+
+#f4 {
+    position: absolute;
+    top: 1480px;
+    left: 754px;
+}
+
+#f4f {
+    position: absolute;
+    top: 1629px;
+    left: 755px;
+    color: #000000;
+    font-size: 20px;
+}
+
+#f5 {
+    position: absolute;
+    top: 1480px;
+    left: 434px;
+}
+
+#f5f {
+    position: absolute;
+    top: 1629px;
+    left: 434px;
+    color: #000000;
+    font-size: 20px;
+}
